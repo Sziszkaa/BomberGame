@@ -1,0 +1,12 @@
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\BomberGame.csproj.AssemblyReference.cache
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\BomberGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\BomberGame.AssemblyInfoInputs.cache
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\BomberGame.AssemblyInfo.cs
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\BomberGame.csproj.CoreCompileInputs.cache
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\bin\Debug\net6.0\BomberGame.deps.json
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\bin\Debug\net6.0\BomberGame.dll
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\bin\Debug\net6.0\BomberGame.pdb
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\BomberGame.dll
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\refint\BomberGame.dll
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\BomberGame.pdb
+D:\EVA\Beadando\BomberGame.Winforms\BomberGame\obj\Debug\net6.0\ref\BomberGame.dll

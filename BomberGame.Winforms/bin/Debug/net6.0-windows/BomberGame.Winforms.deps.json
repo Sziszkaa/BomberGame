@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BomberGame.Winforms/1.0.0": {
+        "dependencies": {
+          "BomberGame": "1.0.0"
+        },
+        "runtime": {
+          "BomberGame.Winforms.dll": {}
+        }
+      },
+      "BomberGame/1.0.0": {
+        "runtime": {
+          "BomberGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BomberGame.Winforms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BomberGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
